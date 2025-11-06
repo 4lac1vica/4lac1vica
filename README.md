@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey, I'm Tinu 🚄🚋
+
+My name is Todi Tinu-Constantin and I'm currently studying Computer Science at Technical University of Cluj-Napoca. 
+I'm very passionate about engineering, especially hardware topics, like circuits, microcontrollers or FPGAs.
+
+I use : Git, GitHub Xilinx Vivado, ArduinoIDE, any JetBrains IDE(CLion and IntelliJ IDEA mainly), VitisHLS and Visual Studio Code.
+Languages : C, C++, VHDL, Java, Python, Assembly(for X86 32 bits). 
+
+## See ya around
+
 
 <!--
 **4lac1vica/4lac1vica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
