@@ -4,7 +4,7 @@ My name is Todi Tinu-Constantin and I'm currently studying Computer Science at T
 I'm very passionate about engineering, especially hardware topics, like circuits, microcontrollers or FPGAs.
 
 I use : Git, GitHub Xilinx Vivado, ArduinoIDE, any JetBrains IDE(CLion and IntelliJ IDEA mainly), VitisHLS and Visual Studio Code.
-Languages : C, C++, VHDL, Java, Python, Assembly(for X86 32 bits). 
+Languages : C, C++, VHDL, Java, Python, x86 Assembly with 32 bits. 
 
 ## See ya around
 
