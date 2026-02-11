@@ -7,7 +7,8 @@ I use : Git, GitHub, Xilinx Vivado, ArduinoIDE, any JetBrains IDE(CLion and Inte
 
 Languages: C, C++, VHDL, Java, Python, x86 Assembly (32-bit)
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=!tinu&cover_image=true&theme=default)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31vkhk5sffdqzfraqu6ujsxe4a5a?si=1a0af64ba7dd4c99&theme=novatorem)
+
 
 
 
