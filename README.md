@@ -22,6 +22,10 @@ Here are the projects made for University
 
 - [Intelligent Lightning System](https://github.com/4lac1vica/Intelligent-Lighting-System) --> Project for Structure of Calculus Systems Class 
 
-- [Stana GO App](https://github.com/Ciorbingus/StanaGO) --> Project for Software Engineering Class (in team)
+- [Stana GO App](https://github.com/Ciorbingus/StanaGO) --> Team project for Software Engineering Class 
 
+## Optional Projects 
+Projects made in my free time 
+
+- [Urban Flow](https://github.com/stolniceanuiustin/polihack_UrbanFlow) --> Team project for a Hackaton
 
