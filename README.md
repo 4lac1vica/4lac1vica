@@ -16,7 +16,7 @@ Here are the projects made for university.
 
 - [RailRoad Crossing](https://github.com/4lac1vica/RailroadCrossing) --> Project for Design with Microprocessors Class 
 
-- [Intelligent Lightning System](https://github.com/4lac1vica/Intelligent-Lighting-System) --> Project for Structure of Calculus Systems Class 
+- [Intelligent Lightning System](https://github.com/4lac1vica/Intelligent-Lighting-System) --> Project for Structure of Computer Systems Class 
 
 - [Stana GO App](https://github.com/Ciorbingus/StanaGO) --> Team project for Software Engineering Class 
 
