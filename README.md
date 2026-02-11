@@ -5,7 +5,7 @@ I'm very passionate about engineering, especially hardware topics, like circuits
 
 I use : Git, GitHub, Xilinx Vivado, ArduinoIDE, any JetBrains IDE(CLion and IntelliJ IDEA mainly), Vitis and Visual Studio Code.
 
-Languages : C, C++, C#, VHDL, Java, Python, x86 Assembly with 32 bits. 
+Languages: C, C++, VHDL, Java, Python, x86 Assembly (32-bit)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vkhk5sffdqzfraqu6ujsxe4a5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
