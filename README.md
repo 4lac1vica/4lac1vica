@@ -8,7 +8,7 @@ I use : Git, GitHub, Xilinx Vivado, ArduinoIDE, any JetBrains IDE(CLion and Inte
 Languages: C, C++, VHDL, Java, Python, x86 Assembly (32-bit)
 
 ## University Projects 
-Here are the projects made for University
+Here are the projects made for university
 
 - [MIPS Unic Cycle](https://github.com/4lac1vica/MIPS-UNIC-CYCLE) --> Project for Computer Architecture Class 
 
