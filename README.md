@@ -5,10 +5,10 @@ I'm very passionate about engineering, especially hardware topics, like circuits
 
 I use : Git, GitHub, Xilinx Vivado, ArduinoIDE, any JetBrains IDE(CLion and IntelliJ IDEA mainly), Vitis and Visual Studio Code.
 
-Languages: C, C++, VHDL, Java, Python, x86 Assembly (32-bit)
+Languages: C, C++, VHDL, Java, Python, x86 Assembly (32-bit).
 
 ## University Projects 
-Here are the projects made for university
+Here are the projects made for university.
 
 - [MIPS Unic Cycle](https://github.com/4lac1vica/MIPS-UNIC-CYCLE) --> Project for Computer Architecture Class 
 
@@ -21,6 +21,6 @@ Here are the projects made for university
 - [Stana GO App](https://github.com/Ciorbingus/StanaGO) --> Team project for Software Engineering Class 
 
 ## Personal Projects 
-Projects developed outside university coursework
+Projects developed outside university coursework.
 - [Urban Flow](https://github.com/stolniceanuiustin/polihack_UrbanFlow) --> Team project for a Hackaton
 
