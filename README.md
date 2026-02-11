@@ -11,8 +11,9 @@ Languages : C, C++, C#, VHDL, Java, Python, x86 Assembly with 32 bits.
 
 
 
-##Uni Projects 
+## Uni Projects 
 Here are the projects made for University
 
 [MIPS Unic Cycle](https://github.com/4lac1vica/MIPS-UNIC-CYCLE) --> Project for Computer Architecture Class 
+
 [MIPS Pipeline](https://github.com/4lac1vica/MIPS-PIPELINE) --> Project for Computer Architecture Class 
