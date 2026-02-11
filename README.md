@@ -25,7 +25,6 @@ Here are the projects made for University
 - [Stana GO App](https://github.com/Ciorbingus/StanaGO) --> Team project for Software Engineering Class 
 
 ## Personal Projects 
-Projects made in my free time 
-
+Projects developed outside university coursework
 - [Urban Flow](https://github.com/stolniceanuiustin/polihack_UrbanFlow) --> Team project for a Hackaton
 
