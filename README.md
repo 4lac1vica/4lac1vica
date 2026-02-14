@@ -24,6 +24,6 @@ Here are the projects made for university. More details in README files.
 Projects developed outside university coursework. More details in README files.
 - [Urban Flow](https://github.com/stolniceanuiustin/polihack_UrbanFlow) --> Team project for a Hackaton
 
-- [Game of Life](https://github.com/4lac1vica/Game_Of_Life) --> Small C project 
+
 
 
