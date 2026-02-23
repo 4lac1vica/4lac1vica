@@ -24,6 +24,6 @@ Here are the projects made for university. More details in README files.
 Projects developed outside university coursework. More details in README files.
 - [Urban Flow](https://github.com/stolniceanuiustin/polihack_UrbanFlow) --> Team project for a Hackaton
 
-
+- [Read Humidity](https://github.com/4lac1vica/ReadHumidity) --> Basys 3 project (in progress)
 
 
