@@ -26,4 +26,4 @@ Projects developed outside university coursework. More details in README files.
 
 - [Read Humidity and Temperature](https://github.com/4lac1vica/ReadHumidity) --> Basys 3 project (in progress)
 
-
+- [Music with Arduino](https://github.com/4lac1vica/ArduinoBuzzer) --> Arduino UNO Mini project (in progress)
