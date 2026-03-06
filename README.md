@@ -18,7 +18,9 @@ Here are the projects made for university. More details in README files.
 
 - [Intelligent Lightning System](https://github.com/4lac1vica/Intelligent-Lighting-System) --> Project for Structure of Computer Systems Class 
 
-- [Stana GO App](https://github.com/Ciorbingus/StanaGO) --> Team project for Software Engineering Class 
+- [Stana GO App](https://github.com/Ciorbingus/StanaGO) --> Team project for Software Engineering Class
+
+- [cataLOG](https://github.com/4lac1vica/Aplicatie-Catalog) --> Project for Software Design Class
 
 ## Personal Projects 
 Projects developed outside university coursework. More details in README files.
