@@ -7,6 +7,10 @@ I'm very passionate about engineering, especially hardware topics, like circuits
 
 **Languages: C, C++, C# , VHDL, Java, Python, x86 Assembly (32-bit).**
 
+**Contact Info**
+
+  - toditinuconstantin@outlook.com
+
 ## University Projects 
 Here are the projects made for university. More details in README files.
 
