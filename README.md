@@ -5,7 +5,9 @@ I'm very passionate about engineering, especially hardware topics, like circuits
 
 **I use : Git, GitHub, Xilinx Vivado, ArduinoIDE, any JetBrains IDE(CLion and IntelliJ IDEA mainly), Vitis and Visual Studio Code.**
 
-**Languages: C, C++, C# , VHDL, Java, Python, x86 Assembly (32-bit).**
+**Languages: C, C++, C# , VHDL, Java, Python, x86 Assembly (32-bit), SQL.**
+
+**More : ASP.NET, Entity Framework, SpringBoot.**
 
 **Contact Info**
 
