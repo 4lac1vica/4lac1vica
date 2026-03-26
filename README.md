@@ -7,7 +7,7 @@ I'm very passionate about engineering, especially hardware topics, like circuits
 
 **Languages: C, C++, C# , VHDL, Java, Python, x86 Assembly (32-bit), SQL.**
 
-**More : ASP.NET, Entity Framework, SpringBoot.**
+**More : ASP.NET, Entity Framework, SpringBoot, OpenGL, OpenCV.**
 
 **Contact Info**
 
