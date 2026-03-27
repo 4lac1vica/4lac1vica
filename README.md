@@ -7,6 +7,8 @@ I'm very passionate about engineering, especially hardware topics, like circuits
 
 **Languages: C, C++, C# , VHDL, Java, Python, x86 Assembly (32-bit), SQL.**
 
+**Tech : ESP8266, Arduino Uno, ESP32, Basys3, NexysA7, Zybo Z-20/10** 
+
 
 **Contact Info**
 
