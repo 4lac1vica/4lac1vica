@@ -29,6 +29,8 @@ Here are the projects made for university. More details in README files.
 
 - [cataLOG](https://github.com/4lac1vica/Aplicatie-Catalog) --> Project for Software Design Class (in progress)
 
+- [Polish Trains Delays](https://github.com/4lac1vica/PolishTrainsDelaysML) --> Project for Intelligent Systems Class (in progress)
+
 ## Personal Projects 
 Projects developed outside university coursework. More details in README files.
 - [Urban Flow](https://github.com/stolniceanuiustin/polihack_UrbanFlow) --> Team project for a Hackaton
