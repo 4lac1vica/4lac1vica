@@ -38,3 +38,7 @@ Projects developed outside university coursework. More details in README files.
 - [Read Humidity and Temperature](https://github.com/4lac1vica/ReadHumidity) --> Basys 3 project
 
 - [Music with Arduino](https://github.com/4lac1vica/ArduinoBuzzer) --> Arduino UNO Mini project (in progress)
+
+- [Bump Allocator](https://github.com/4lac1vica/MemAlloc)  --> small memory allocator, kinda buggy
+
+
