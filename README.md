@@ -39,6 +39,6 @@ Projects developed outside university coursework. More details in README files.
 
 - [Music with Arduino](https://github.com/4lac1vica/ArduinoBuzzer) --> Arduino UNO Mini project (in progress)
 
-- [Bump Allocator](https://github.com/4lac1vica/MemAlloc)  --> small memory allocator, kinda buggy
+- [Pool-Allocator](https://github.com/4lac1vica/PoolAllocator)  --> pool allocator implementation
 
 
